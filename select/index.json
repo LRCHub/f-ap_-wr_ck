@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Nightmare",
+  "base_artist": "From Ashes To New",
+  "createdAt": "2026-02-18T19:27:43.927732Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nightmare (feat. Pusha T & Barrington Levy) [Mixed]",
+      "artist": "Yellow Claw",
+      "has_synced": false,
+      "path": "select/01_Nightmare_(feat._Pusha_T_&_Barrington_Levy)_[Mixed]_Yellow_Claw.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "nightmare",
+      "artist": "nothing,nowhere.",
+      "has_synced": true,
+      "path": "select/02_nightmare_nothing,nowhere..lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "nightmare",
+      "artist": "nothing,nowhere.",
+      "has_synced": false,
+      "path": "select/03_nightmare_nothing,nowhere..txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "nightmare (one take)",
+      "artist": "nothing,nowhere.",
+      "has_synced": true,
+      "path": "select/04_nightmare_(one_take)_nothing,nowhere..lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Nightmare",
+      "artist": "Okay",
+      "has_synced": false,
+      "path": "select/05_Nightmare_Okay.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hecate's Nightmare",
+      "artist": "Children of Bodom",
+      "has_synced": false,
+      "path": "select/06_Hecate's_Nightmare_Children_of_Bodom.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hecate's Nightmare",
+      "artist": "Children of Bodom",
+      "has_synced": true,
+      "path": "select/07_Hecate's_Nightmare_Children_of_Bodom.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lord Chancellor's Nightmare Song",
+      "artist": "Todd Rundgren",
+      "has_synced": true,
+      "path": "select/08_Lord_Chancellor's_Nightmare_Song_Todd_Rundgren.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Nightmare",
+      "artist": "Stevie Nicks",
+      "has_synced": true,
+      "path": "select/09_The_Nightmare_Stevie_Nicks.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Nightmare",
+      "artist": "Bones",
+      "has_synced": true,
+      "path": "select/10_Nightmare_Bones.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Nightmare (A Synergetic mix)",
+      "artist": "Brainbug",
+      "has_synced": false,
+      "path": "select/11_Nightmare_(A_Synergetic_mix)_Brainbug.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Nightmare (Isaac mix)",
+      "artist": "Brainbug",
+      "has_synced": false,
+      "path": "select/12_Nightmare_(Isaac_mix)_Brainbug.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Nightmare (original mix)",
+      "artist": "Brainbug",
+      "has_synced": false,
+      "path": "select/13_Nightmare_(original_mix)_Brainbug.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Nightmare (Sinister Strings Mix)",
+      "artist": "Brainbug",
+      "has_synced": false,
+      "path": "select/14_Nightmare_(Sinister_Strings_Mix)_Brainbug.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Nightmare At the Apollo",
+      "artist": "Bloodhound Gang",
+      "has_synced": true,
+      "path": "select/15_Nightmare_At_the_Apollo_Bloodhound_Gang.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Nightmare At The Apollo",
+      "artist": "The Bloodhound Gang",
+      "has_synced": true,
+      "path": "select/16_Nightmare_At_The_Apollo_The_Bloodhound_Gang.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Into the Nightmare",
+      "artist": "Black Honey",
+      "has_synced": true,
+      "path": "select/17_Into_the_Nightmare_Black_Honey.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Prelude / Nightmare",
+      "artist": "The Crazy World of Arthur Brown",
+      "has_synced": false,
+      "path": "select/18_Prelude___Nightmare_The_Crazy_World_of_Arthur_Brown.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Nightmare",
+      "artist": "From Ashes to New",
+      "has_synced": false,
+      "path": "select/pl_01_Nightmare_From_Ashes_to_New.txt"
+    }
+  ]
+}
